@@ -1,5 +1,5 @@
 # Calculator
-My progress in SWIFT. The second program - Flashlight.
+My progress in SWIFT. The second program - Calculator.
 
 ----
 
